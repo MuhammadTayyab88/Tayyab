@@ -6,14 +6,6 @@ Welcome to my GitHub profile! I'm a results-driven **Full Stack Developer** and 
 
 ## 🚀 Tech Stack
 
-### 💻 Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-
 ### 🧠 Backend & APIs
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
@@ -30,6 +22,14 @@ Welcome to my GitHub profile! I'm a results-driven **Full Stack Developer** and 
 ![LLM Integration](https://img.shields.io/badge/-LLM_Integration-6A1B9A?logo=codeforces&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-00897B?logo=semantic-release&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG_Pipelines-673AB7?logo=apachekafka&logoColor=white)
+
+### 💻 Frontend
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 ### 🧩 Systems & Platforms
 - Proposal Generation Systems (RFP, LLM-based)
