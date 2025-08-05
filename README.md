@@ -51,9 +51,9 @@ Welcome to my GitHub profile! I'm a results-driven **Full Stack Developer** and 
 
 ## 📈 GitHub Stats
 
-![Muhammad Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadTayyab&show_icons=true&theme=radical&hide=prs&count_private=true)
+![Muhammad Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadTayyab88&show_icons=true&theme=radical&hide=prs&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zain924&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTayyab88&layout=compact&theme=radical)
 
 ---
 
